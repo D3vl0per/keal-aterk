@@ -1,5 +1,7 @@
 # keal-aterk
-
+  
+FYI: Ez csak egy mirror az eredeti group-ról: https://t.me/sawarim
+  
 ## IPFS:
 - bafybeibs4c3wwpba4rsmc5zfugeghgga752bpmjzave3fvvsrmkmq5ne3e
 - bafybeibo5kezvovr7kpeepqfir2qnyeqfpivobea2uz2ykrjl2xcd4t6zu
@@ -15,3 +17,8 @@
 - SHA512: 6e78c0e1da7abf35d79ab56fb125a6ef392b1046db46fa6bac54bb57523abc267ea2952acd5ccf5e6cadca2dcc29a38bf413951ed0b2d4dc9f7fbc7250efb794
 - MD5: 3d510be0f514958617bc5d6cf446226d
 - BLAKE2: 6ee36e529d55e6cd9e9f4100435c5874642eccee1a312fc9f7609c73d69ceaf7097dc48a56812709af5bd3fbd891a6f2d629ab950fb1d39cbdf3b97f1d8c6636
+
+## Disclaimer
+Nem, nem én vagyok a Sawarim, ez csak egy mirror.   
+Fed-et kérném, hogy kíméljenek meg az "FBI, OPEN UP" szituációtól, nem én vagyok akit keresnek!    
+Takedown request esetén az alábbi email címre kellene írni (igen, ez egy működő mailbox és domain): dmca@fuckyouandyourdmca.hu     
